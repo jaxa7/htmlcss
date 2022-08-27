@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(171, 222, 226);
+    background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/197359/nitish-meena-37745.jpg');
+    background-position: no-repeat;
+    background-attachment: fixed;
+}
+
+
+.first{
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: black;
+    cursor:grab;
+}
+
+
+#list {
+    color: blueviolet;
+    font-size: 25px;
+}
+
+table, th, td {
+    border: 1px solid black; border-collapse: collapse;
+    padding: 10px   ;
+    }
+    div{
+        max-width: 150px;
+        background-color: aqua;
+        padding: 3px 1px 3px 20px;
+        border-width: 3px;
+        border-style:solid;
+        border-color: gold;
+        border-radius: 10px;
+        margin: 15px 20px
+        
+    }
+
+    ul {
+        padding: 20px;
+    }
+
+    button {
+        background-color:  yellow;
+        border: 3px solid black;
+        border-radius: 5px;
+        padding: 8px 12px  ;
+
+    }
